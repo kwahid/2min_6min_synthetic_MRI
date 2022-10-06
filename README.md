@@ -2,6 +2,8 @@
 
 ## Repo for code related to Synthetic MRI project. Pre-print available at: https://www.medrxiv.org/content/10.1101/2022.06.19.22276611v1. Manuscript currently under peer-review, when accepted link will be updated here. Corresponding image sets used for this project are avaliable on Figshare (doi: 10.6084/m9.figshare.20099252). All data has been anonymized to remove patient PHI. <br>
 
+<img src= "synthetic_MRI_overview_figure.png" width="700">
+
 ### This repo contains the following files in the directory titled "Code": <br>
 Jupyter notebook of DICOM to NIfTI file conversion scripts (DICOM_to_nifti.ipynb) - This notebook contains all the code neccessary to generate NIfTI version of the source image files so they are easier to use in analysis scripts. <br>
 
