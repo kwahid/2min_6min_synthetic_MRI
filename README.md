@@ -13,7 +13,7 @@ Jupyter notebook of manual segmentation analysis (Manual_segmentation_analysis.i
 
 Jupyter notebook of image similarity analysis (Image_similarity_analysis.ipynb) - This notebook contains all the code neccessary to replicate Table 1 and Figure 6 of the manuscript and associated results. <br>
 
-Jupyter notebook of visual Turing Test analysis (Turing_test.ipynb) - This notebook contains all the code neccessary to replicate Table 1 and Figure 5 of the manuscript and associated results. <br>
+Jupyter notebook of visual Turing Test analysis (Turing_test.ipynb) - This notebook contains all the code neccessary to replicate Table 3 and Figure 5 of the manuscript and associated results. <br>
 
 CSV files associated with Turing test analysis (Turing_test_slice_key_v2_FULLYANONYMIZED_FINAL.csv, Turing_test_subset_information_withanonkey_v2_FULLYANONYMIZED_FINAL.csv) - CSV files that were used as intermediates in generating Turing test results. <br>
 
