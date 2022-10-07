@@ -32,6 +32,6 @@ Seaborn version 0.11.2. <br>
 Rpy2 version 3.5.0. <br>
 Scipy version 1.7.1. <br>
 
-### Note: The Jupyter Notebook is quite large, which may present difficulties when trying to view it through the online Github browser preview. To successfully view it in the online Github browser you may need to download the notebook and then navigate back to the corresponding page.  
+### Note: The Jupyter Notebooks are quite large, which may present difficulties when trying to view them through the online Github browser preview. To successfully view it them in the online Github browser you may need to download the notebook (top right button) and then navigate back to the corresponding page.  
 
 ### For more information on the Fuller lab and associated projects please visit: https://www.mdanderson.org/research/departments-labs-institutes/labs/fuller-laboratory.html. 
